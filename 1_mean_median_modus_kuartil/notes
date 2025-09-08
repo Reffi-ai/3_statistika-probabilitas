@@ -1,0 +1,2 @@
+g++ 24106050026_tugas.cpp -o 24106050026_tugas.exe 
+./24106050026_tugas.exe
