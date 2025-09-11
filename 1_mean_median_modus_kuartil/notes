@@ -1,2 +1,2 @@
-g++ 24106050026_tugas.cpp -o 24106050026_tugas.exe 
-./24106050026_tugas.exe
+g++ 24106050026_tugas_0914.cpp -o 24106050026_tugas_0914.exe 
+./24106050026_tugas_0914.exe
